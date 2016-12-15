@@ -4,3 +4,4 @@
 
 this is a test post.
 
+image::https://cloud.githubusercontent.com/assets/904929/21228887/e79db59c-c322-11e6-952b-3fc43c2b8690.png[test]
