@@ -1,0 +1,6 @@
+= testpost
+
+== test
+
+this is a test post.
+
