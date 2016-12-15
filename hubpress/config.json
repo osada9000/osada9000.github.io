@@ -4,7 +4,13 @@
     "repositoryName": "osada9000.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "millefeuille",
+    "description": "日本語練習帳",
+    "logo": ""
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
