@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[millefeuille]]></title><description><![CDATA[日本語練習帳]]></description><link>https://osada9000.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 12 Feb 2017 15:04:42 GMT</lastBuildDate><atom:link href="https://osada9000.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[test post2]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[millefeuille]]></title><description><![CDATA[日本語練習帳]]></description><link>https://osada9000.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 12 Feb 2017 15:25:14 GMT</lastBuildDate><atom:link href="https://osada9000.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[テスト投稿]]></title><description><![CDATA[<div class="paragraph">
+<p>あああ
+これはテストだよ</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://camo.githubusercontent.com/dc71fea6cc36e90b0b3e5693a9e0f5a5d0fe60e3/687474703a2f2f692e696d6775722e636f6d2f5a466c68636a352e6a7067" alt="687474703a2f2f692e696d6775722e636f6d2f5a466c68636a352e6a7067">
+</div>
+</div>]]></description><link>https://osada9000.github.io2017-02-13.adoc</link><guid isPermaLink="true">https://osada9000.github.io2017-02-13.adoc</guid><dc:creator><![CDATA[Manabu OSADA]]></dc:creator><pubDate>Mon, 13 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[test post2]]></title><description><![CDATA[<div class="paragraph">
 <p>this is sample post.</p>
 </div>
 <div class="imageblock">
